@@ -1,0 +1,3 @@
+/home/simaodiazz/Documentos/Exercicio 5/build/CMakeFiles/Application.dir
+/home/simaodiazz/Documentos/Exercicio 5/build/CMakeFiles/edit_cache.dir
+/home/simaodiazz/Documentos/Exercicio 5/build/CMakeFiles/rebuild_cache.dir

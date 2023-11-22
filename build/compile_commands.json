@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/simaodiazz/Documentos/Exercicio 5/build",
+  "command": "/usr/bin/g++  -I\"/home/simaodiazz/Documentos/Exercicio 5/./include\" -g -std=gnu++11 -o CMakeFiles/Application.dir/src/main.cpp.o -c \"/home/simaodiazz/Documentos/Exercicio 5/src/main.cpp\"",
+  "file": "/home/simaodiazz/Documentos/Exercicio 5/src/main.cpp"
+}
+]
